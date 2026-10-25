@@ -1,6 +1,2932 @@
 {
-  "version": 0,
+  "version": 1,
   "updated": "2026-10-25",
-  "source": "Empty until the first data update is reviewed and merged.",
-  "entries": []
+  "source": "USDA FSIS FoodKeeper (fsis.usda.gov/shared/data/EN/foodkeeper.json). Shortest value of each range.",
+  "entries": [
+    {
+      "foodName": "\"Genuine\" Maple syrup, unopened, glass",
+      "days": 1460,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "\"Genuine\" Maple syrup, unopened, plastic",
+      "days": 540,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Aioli, homemade",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Almond butter",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Almond extract",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Almond oil",
+      "days": 730,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Almonds, no shell",
+      "days": 240,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Almonds, shell",
+      "days": 480,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Amaranth, flour, meal",
+      "days": 60,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Amaranth, whole grain",
+      "days": 120,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Anchovies, canned",
+      "days": 1825,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Apple cider, fresh",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Apple juice, fresh squeezed",
+      "days": 6,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Apples",
+      "days": 28,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Applesauce, commercial",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Applesauce, homemade",
+      "days": 21,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Apricots",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Artichokes, whole",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Arugula",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Asparagus",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Avocado Oil",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Avocados",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Baby carrots",
+      "days": 28,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Bacon",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Bacon bits, imitation",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Bacon grease",
+      "days": 180,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Bacon, fully cooked",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Bacon, uncured",
+      "days": 4,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Bagel, fresh baked",
+      "days": 1,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Bagged greens, leaf, spinach, lettuce, etc.",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Baking powder",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Baking soda",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Balsamic vinegar",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Bamboo shoots",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Bananas",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Barbecue sauce, bottled",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Barbecue Sauce, homemade, canned",
+      "days": 270,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Barley, flour, meal",
+      "days": 90,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Barley, whole grain",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Basil, dried",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Basil, fresh",
+      "days": 10,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Bean sprouts",
+      "days": 5,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beans and peas, green, fava, lima, soybean, wax, snow, sugar snap",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beans, dried",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Beef broth/stock/consommé, commercially produced",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beef, chuck roast, brisket",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beef, ground",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beef, rib roast, bone-in",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beef, rib roast; boneless, rolled",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beef, round or rump roast",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beef, short ribs",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beef, steaks",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beef, stew, cubes",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beef, tenderloin, half",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beef, tenderloin, whole",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beets",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Beets, pickled",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Berries, blackberries, boysenberries, currant",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Berries, cherries, goose berries, lychee",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Biscuit or pancake mix",
+      "days": 270,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Bison, ground",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Bison, whole",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Black bean sauce",
+      "days": 540,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Black pepper, cracked, dried, commercially bottled or purchased in bulk",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Black pepper, ground, dried, commercially bottled or purchased in bulk",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Blueberries",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Bok choy",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Bratwurst, fresh",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Bratwurst, smoked and processed",
+      "days": 5,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Bread, homemade",
+      "days": 60,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Breadcrumbs, commercial",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Broccoli and broccoli raab (rapini)",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Broth, homemade",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Brussels sprouts",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Buckwheat, flour, meal",
+      "days": 30,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Buckwheat, whole grain",
+      "days": 60,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Bulgur",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Butter",
+      "days": 30,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Butter flavor",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Buttermilk",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cabbage",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cajun seasoning blend, ground, dried, commercially bottled or purchased in bulk",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cake, brownie, bread mixes",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Canadian bacon, sliced",
+      "days": 80,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Canadian bacon, whole",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Canned chicken",
+      "days": 1825,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Canned goods, high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce)",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Canned goods, low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach)",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Canola oil",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cantaloupe",
+      "days": 5,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Capon, whole",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Carrot juice, fresh squeezed",
+      "days": 6,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Carrots, parsnips",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cashew butter",
+      "days": 90,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cashews, no shell",
+      "days": 180,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Casseroles",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cauliflower",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Caviar, fresh, in jar",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Celery",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Celery root",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cereal or granola bars",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cereal, cook before eating (oatmeal, etc.)",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cereal, ready-to-eat",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cheese Curds, fresh, unaged",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cheese, hard such as cheddar, swiss, block parmesan",
+      "days": 180,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cheese, parmesan; shredded or grated",
+      "days": 360,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cheese, processed slices",
+      "days": 21,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cheese, shredded; cheddar, mozzarella, etc.",
+      "days": 30,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cheese, soft such as brie, bel paese, goat",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cherimoya",
+      "days": 4,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cherries",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cherry tomatoes",
+      "days": 5,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Chia seeds",
+      "days": 540,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Chicken broth/stock/consommé, commercially produced",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Chicken parts, breast halves, bone-in",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Chicken parts, breast halves, boneless",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Chicken parts, legs or thighs",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Chicken salad",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Chicken, pre-packaged, luncheon/deli meat",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Chicken, whole",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Chili powder",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Chives",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Chocolate syrup",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Chocolate, unsweetened and semi-sweet, solid",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Chorizo, fresh",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Chorizo, smoked and processed, cooked",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Chorizo, smoked and processed, uncooked",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Chutney",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cilantro",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cinnamon extract",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cinnamon rolls, baked",
+      "days": 1,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cinnamon, ground, dried, commercially bottled or purchased in bulk",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Citrus fruit, lemon, lime, orange, grapefruit, tangerines, clementines",
+      "days": 10,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Coconut cream, canned",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Coconut flavor",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Coconut flour",
+      "days": 270,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Coconut milk, canned",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Coconut oil",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Coconut water",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Coconut, shredded",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Coconuts, fresh",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Coffee creamer, liquid refrigerated",
+      "days": 21,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Coffee creamer, powdered",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Coffee, commercial ground, non-vacuum",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Coffee, home ground, non-vacuum",
+      "days": 90,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Coffee, instant",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Coffee, whole beans",
+      "days": 90,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Coleslaw, homemade, prepared",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Commercial brand vacuum-packed dinners, with USDA seal",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Commercial bread products, including pan breads, flat breads, rolls, and buns",
+      "days": 14,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Commercial cakes and muffins",
+      "days": 3,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cooked fish, all",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cooked pasta",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cooked poultry dishes",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cooked rice",
+      "days": 4,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cooked shellfish, all",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cookies, crispy",
+      "days": 120,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cookies, soft",
+      "days": 60,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Corn on the cob",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Corn syrup",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Corned beef, in pouch with pickling juices",
+      "days": 5,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cornish Hens, whole",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cornmeal, regular, degerminated",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cornmeal, stone ground or blue",
+      "days": 30,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cornstarch",
+      "days": 540,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cottage cheese",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Crab legs, king, dungeness, snow",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Crab meat, fresh",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Crab meat, pasteurized",
+      "days": 300,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Crackers",
+      "days": 240,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cranberries",
+      "days": 60,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cranberry sauce, canned",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cranberry sauce, homemade",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cream cheese",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cream liquors, unopened",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cream sauces, milk solids",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Cream, half and half",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cream, heavy",
+      "days": 10,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cream, light",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cream, whipped, sweetened",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cream, whipping, ultrapasteurized",
+      "days": 30,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Croutons",
+      "days": 150,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cucumbers",
+      "days": 4,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Cumin, ground, dried, commercially bottled or purchased in bulk, opened or unopened",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Dates",
+      "days": 360,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Diet powder mixes and drink mixes",
+      "days": 540,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Dips, sour cream based",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Dough, commercial (bread or cookie)",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Doughnuts",
+      "days": 1,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Dry egg noodles",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Dry gravy mixes",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Dry stuffing mix, commercially packaged",
+      "days": 270,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Duck fat",
+      "days": 30,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Duckling, domestic or wild, whole",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Edamame, fresh",
+      "days": 4,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Edamame, salted, dry roasted, out of pod",
+      "days": 180,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Egg dishes",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Egg salad",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Egg substitutes",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Egg substitutes, liquid",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Eggnog, commercial",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Eggplant",
+      "days": 4,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Eggs, hard boiled cooked",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Eggs, in shell",
+      "days": 21,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Eggs, raw whites, yolks",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Farro, flour, meal",
+      "days": 90,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Farro, whole grain",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Fatty fish, bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Fish, cold smoked, air pack",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Fish, cold smoked, vacuum pack",
+      "days": 21,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Fish, hot smoked, air pack",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Fish, hot smoked, vacuum pack",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Fish, raw but headed and gutted",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Flavored or herb mixes",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Flaxseed, ground",
+      "days": 360,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Flaxseed, whole seed",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Flour, white",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Flour, whole wheat",
+      "days": 90,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Fresh clams, mussels, oysters",
+      "days": 5,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Fresh lobster tails, cooked",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Fresh pasta",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Fresh whole lobster, frozen",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Fresh whole lobster, live",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Fried chicken",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Frosting or icing",
+      "days": 300,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Frozen pretzels",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Fruit cake",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Fruit Juice in cartons, fruit drinks, punch",
+      "days": 21,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Fruit pies, apple, peach, blueberry, apricot, cherry, blackberry",
+      "days": 1,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Fruits, dried, raisins, apricots, mangoes, cranberries, etc.",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Frying oil, re-used",
+      "days": 30,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Garam masala",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Garlic",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Garlic powder, dried, commercially bottled or purchased in bulk",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Garlic, chopped, commercial jars",
+      "days": 240,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Gelatin, flavored",
+      "days": 300,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Gelatin, unflavored",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Ghee",
+      "days": 365,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Giblets",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ginger root",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Goat, ground",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Goat, less tender whole cuts (stew meat, riblets, shanks)",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Goat, tender whole cuts (legs, ribs, shoulder, loin)",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Goose, domestic or wild, whole",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Graham cracker/animal cracker",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Granola",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Grapes",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Grapeseed oil",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Gravy, jars and cans",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Greens",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Grits, boxed",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Ground turkey or chicken",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Guacamole",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Guava",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Gummy (fruit) snacks",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Ham salad",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, canned (“keep refrigerated” label)",
+      "days": 180,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, country ham (whole or half)",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fresh, cook-before-eating, arm picnic shoulder, boneless",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fresh, cook-before-eating, bone-in, half",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fresh, cook-before-eating, bone-in, whole",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fresh, cook-before-eating, shank or butt portion, bone-in",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fresh, cook-before-eating, shoulder roll (butt), boneless",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fresh, uncooked, half leg, bone-in",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fresh, uncooked, whole leg, bone-in",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fresh, uncooked, whole leg, boneless",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fully cooked, arm picnic shoulder, boneless",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fully cooked, bone-in, half",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fully cooked, bone-in, whole",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fully cooked, canned, boneless (refrigerated)",
+      "days": 180,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fully cooked, slices, half, or spiral cut",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, fully cooked, vacuum packed, boneless",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, pre-packaged, luncheon/deli meat",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, shelf-stable cans",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Ham, uncured, fresh, cooked",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ham, uncured, fresh, uncooked",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Herbs",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Herbs, dried",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Herring, glass packed, in wine sauce",
+      "days": 120,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Hoisin sauce",
+      "days": 540,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Honey",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Honeydew",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Horseradish, in jar",
+      "days": 360,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Hot dogs",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Hot peppers",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Hot sauce",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Hummus, commercial (pasteurized, with preservatives)",
+      "days": 90,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Hummus, traditional (no preservatives, not pasteurized)",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Instant breakfast drinks, bottled",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Jams, jellies, and preserves",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Jerky, commercially dried",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Jerky, homemade",
+      "days": 30,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Jicama, fresh",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Kale",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Kefir, fermented milk",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Ketchup, cocktail, or chili sauce",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Kimchi",
+      "days": 180,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Kiwi fruit",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Kohlrabi",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Kugel, homemade",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Kumquats",
+      "days": 21,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lamb, breast, rolled",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lamb, chops, ribs, or loin",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lamb, crown roast",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lamb, cubes for kabobs",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lamb, ground",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lamb, leg steaks",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lamb, leg, bone-in - large",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lamb, leg, bone-in - small",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lamb, leg; boneless, rolled",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lamb, shanks",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lamb, shoulder roast or shank leg half",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lamb, stew meat, pieces",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lean fish, cod, flounder, haddock, halibut, sole, etc.",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lean fish, pollock, ocean perch, rockfish, sea trout.",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Leeks",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Leftovers, pizza",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Leftovers, with meat, fish, poultry, or egg",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Leftovers, without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes)",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lemon extract",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Lemon juice",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Lemon juice, fresh squeezed",
+      "days": 6,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lemongrass",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lentils, dried",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Lettuce, iceberg, romaine",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lettuce, leaf, spinach",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lime juice",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Live clams, mussels, crab, and oysters",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Lobster tails",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Luncheon meat or poultry, pre-packaged",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Luncheon meat or poultry, store-sliced",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Macadamias, no shell",
+      "days": 360,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Macaroons, french",
+      "days": 1,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Main dishes or meals, hot or refrigerated",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Margarine",
+      "days": 180,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Marinades",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Marinated vegetables, in oil",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Marshmallow crème",
+      "days": 60,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Marshmallows",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Mayonnaise, commercial",
+      "days": 90,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Meat products, canned",
+      "days": 1825,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Meats, covered with gravy or broth",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Melons",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Milk, canned evaporated or condensed",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Milk, shelf-stable",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Milk, ultra-pasteurized",
+      "days": 30,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Millet, flour, meal",
+      "days": 30,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Millet, whole grain",
+      "days": 60,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Mint",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Miso",
+      "days": 365,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Molasses",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Muffin, commercially packaged",
+      "days": 3,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Muffin, homemade - including bran, blueberry, banana, corn, chocolate chip",
+      "days": 3,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Muffin, mix, dry, commercially packaged",
+      "days": 270,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Mung bean, dry, food-grade bags",
+      "days": 365,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Mung bean, dry, vacuum-sealed",
+      "days": 2920,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Mung bean, sprouts",
+      "days": 28,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Mushrooms",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Mushrooms, dried",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Mustard",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Mustard, dried, ground",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Nacho cheese, store bought",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Nectar, papaya, mango, guava, or guavabana",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Nut oils",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Nutmeg, ground, dried, commercially bottled or purchased in bulk",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Nutrition supplement drinks, canned",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Nuts, jars or cans",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Oats, flour, meal",
+      "days": 60,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Oats, whole grain",
+      "days": 120,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Oils, olive or vegetable",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Okra",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Olives, black and green",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Olives, from olive bar",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Onion powder, dried, commercially bottled or purchased in bulk",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Onions, spring or green",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Onions, yellow, white, red, etc.",
+      "days": 60,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Orange juice, freshly squeezed",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Oregano",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Oyster sauce",
+      "days": 540,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Papaya, mango, feijoa, passionfruit, casaha melon",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Parsley, fresh",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pasta salad",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pasta, dry, without eggs",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pastrami",
+      "days": 40,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pastries, danish",
+      "days": 5,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pate",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pate, meat",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pate, poultry",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Peaches, nectarines, plums, pears, sapote",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Peanut butter, commercial",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Peanut butter, commercially produced, containing hydrogenated fat or other stabilizers",
+      "days": 360,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Peanut butter, natural",
+      "days": 360,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Peanuts, boiled, shelled",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Peanuts, no shell",
+      "days": 360,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Peanuts, shell",
+      "days": 360,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Peas, dried split",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pecans, chopped",
+      "days": 360,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pecans, no shell",
+      "days": 270,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pecans, shell",
+      "days": 360,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Peppers",
+      "days": 4,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pesto, jarred",
+      "days": 180,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pheasant, young, whole",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pickles",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pies, mincemeat",
+      "days": 1,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pies, pecan",
+      "days": 1,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pies, pumpkin",
+      "days": 1,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pine nuts",
+      "days": 90,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pineapple",
+      "days": 5,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pistachios, shell or no shell",
+      "days": 360,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pitaya/dragon fruit",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pizza, frozen",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Plantains",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pomegranate",
+      "days": 30,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Popcorn, commercially popped in bags",
+      "days": 60,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Popcorn, dry kernels in jar",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Popcorn, microwave packets",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pork rinds",
+      "days": 120,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pork, crown roast - large",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pork, crown roast - small",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pork, ground",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pork, loin chops, bone-in",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pork, loin chops, boneless",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pork, loin roast, bone-in",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pork, loin roast, boneless",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pork, loin, cubes",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pork, ribs",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pork, shoulder",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pork, tenderloin",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pork, tenderloin medallions or loin cubes",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Potato chips",
+      "days": 60,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Potato salad",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Potatoes",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Potatoes, instant",
+      "days": 300,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Poultry pieces, covered with gravy or broth",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Powdered milk",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pretzels",
+      "days": 120,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Prickly pear",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Prosciutto",
+      "days": 60,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pudding mixes",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pumpkin seeds, raw, in-shell",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pumpkin seeds, raw, no shell",
+      "days": 180,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pumpkin seeds, roasted, in-shell",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pumpkin seeds, roasted, no-shell",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Pumpkins",
+      "days": 90,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Pure vanilla extract",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Quail, whole",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Quark, fresh cheese",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Quiche",
+      "days": 1,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Quinoa, cooked",
+      "days": 6,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Quinoa, uncooked",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Rabbit, whole, fresh",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Radicchio",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Radishes",
+      "days": 10,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Raspberries",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Raw kabobs with vegetables",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Re-hydrated textured soy protein, (TSP)",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Red wine",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Refried beans",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Relish",
+      "days": 270,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Rhubarb",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Rice, brown",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Rice, white or wild",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Ricotta",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Roasted red peppers, jar",
+      "days": 120,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Rosemary",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Rotisserie chicken",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Rutabagas",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Rye, flour, meal",
+      "days": 90,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Rye, whole grain",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Salad dressing, creamy",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Salad dressing, vinaigrette",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Salad dressing, vinaigrette,homemade",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Salad dressings, commercial, bottled",
+      "days": 300,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Salami, pre-packaged, luncheon/deli meat",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Salsa, fresh",
+      "days": 4,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Salsa, homemade, canned",
+      "days": 270,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Salsa, homemade, fresh",
+      "days": 5,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Salsa, picante and taco sauces",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Sauce mixes, nondairy (spaghetti, taco, etc.)",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Sausage, fully cooked smoked links, kielbasa",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Sausage, hard, dry (pepperoni), sliced",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Sausage, raw bulk type or patties",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Sausages, precooked",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Sausages, uncooked",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Scallops",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Seafood salads, (tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.)",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Seafood, canned",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Seasoning blends",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Sesame oil",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Sesame seeds",
+      "days": 1825,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Shortening, solid",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Shrimp, crayfish",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Shrimp, shellfish",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Shucked clams, mussels, and oysters",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Sorghum, flour, meal",
+      "days": 60,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Sorghum, whole grain",
+      "days": 120,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Soup mixes, dry bouillon",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Soup, stews",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Soy crumbles and hot dogs",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Soy flour, full-fat",
+      "days": 180,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Soy meat substitutes",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Soy sauce or teriyaki sauce",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Spaghetti sauce, in jars",
+      "days": 540,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Spaghetti squash, cut",
+      "days": 4,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Spaghetti squash, whole",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Spelt, flour, meal",
+      "days": 90,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Spelt, whole grain",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Spice/spices, ground",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Spice/spices, whole",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Squash, summer and zucchini",
+      "days": 4,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Squash, winter",
+      "days": 30,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Squid",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Star fruit",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Strawberries",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "String Cheese",
+      "days": 150,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Stuffed, raw chicken breasts",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Stuffed, raw pork chops",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Sugar substitutes",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Sun dried tomatoes, jar",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Sunflower oil",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Sunflower seeds, raw, unsalted, no shell",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Sunflower seeds, roasted, no shell",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Swiss chard",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Syrup",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Tahini",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Tamarind",
+      "days": 180,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Tamarind paste",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Tapenade",
+      "days": 270,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Tapiocas",
+      "days": 360,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Taro",
+      "days": 2,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Tea, bags",
+      "days": 540,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Tea, instant",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Tea, loose",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Teff, flour, meal",
+      "days": 60,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Teff, whole grain",
+      "days": 120,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Tempeh",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Textured soy protein, (TSP)",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Thai red curry paste",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Thyme",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Toaster pastries",
+      "days": 180,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Tofu",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Tomato paste",
+      "days": 810,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Tomato Sauce, homemade, canned",
+      "days": 270,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Tortillas, corn",
+      "days": 60,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Tortillas, flour",
+      "days": 90,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Tuna, canned",
+      "days": 1095,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Tuna, packet",
+      "days": 540,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Turkey bacon",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Turkey parts, breast halves, bone-in",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Turkey parts, breast halves, boneless",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Turkey parts, legs or thighs",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Turkey, pre-packaged, luncheon/deli meat",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Turkey, whole",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Turnips",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Variety meats, liver, tongue, chitterlings, etc.",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Veal, ground",
+      "days": 1,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Veal, leg rump or round roast, boneless",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Veal, loin roast, bone-in",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Veal, shoulder roast, boneless",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Vegan Cheddar Cheese",
+      "days": 120,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Vegetable juice, commercial, sold refrigerated",
+      "days": 30,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Vegetable juice, shelf-stable",
+      "days": 540,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Vegetable oil sprays",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Vegetable soup, homemade",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Vegetable stock/broth, commercially produced",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Vegetables",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Venison, round, rump, loin, or rib roast",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Vinegar",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Walnuts, shell or no shell",
+      "days": 270,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Watermelon",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Whipped cream, aerosol can",
+      "days": 21,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Whipped topping, aerosol can",
+      "days": 90,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Whipped topping, tub",
+      "days": 14,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "White wine",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Whole wheat bread, commercially baked & pre-sliced",
+      "days": 3,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Whole wheat bread, homemade",
+      "days": 3,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Whole wheat flour",
+      "days": 730,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Worcestershire sauce",
+      "days": 365,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Yams/sweet potatoes",
+      "days": 14,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Yeast, packaged",
+      "days": 730,
+      "locationName": "Pantry"
+    },
+    {
+      "foodName": "Yogurt",
+      "days": 7,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Yuca/cassava",
+      "days": 3,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Yuzu juice",
+      "days": 270,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Yuzu, fruit, fresh",
+      "days": 5,
+      "locationName": "Fridge"
+    },
+    {
+      "foodName": "Zucchini, fresh, whole",
+      "days": 7,
+      "locationName": "Fridge"
+    }
+  ]
 }
