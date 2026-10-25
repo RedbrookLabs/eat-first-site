@@ -44,7 +44,8 @@ def days_for(rec, prefix):
     return None
 
 def main():
-    with urllib.request.urlopen(URL, timeout=60) as response:
+    req = urllib.request.Request(URL, headers={"User-Agent": "Mozilla/5.0 (compatible; EatFirstDataBot/1.0; +https://eatfirst.redbrooklabs.com)", "Accept": "application/json,*/*"})
+    with urllib.request.urlopen(req, timeout=60) as response:
         raw = json.load(response)
 
     sheet = next((s for s in raw.get("sheets", []) if s.get("name") == "Product"), None)
